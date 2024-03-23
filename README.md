@@ -39,7 +39,7 @@ Cloud services (for large-scale data processing or collaboration).
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637]([https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995](https://github.com/SiD-026/depyh/blob/main/assets/archi.png))
+![Screenshot 2023-11-25 133637](https://github.com/SiD-026/depyh/blob/main/assets/archi.png)
 
 
 ## Output
@@ -52,19 +52,13 @@ Cloud services (for large-scale data processing or collaboration).
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/SiD-026/depyh/blob/main/assets/Picture3.png)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This research enhances 3D model fidelity from 2D images, offering practical applications in various fields and paving the way for future advancements in depth estimation and point cloud generation.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
 
 
