@@ -59,6 +59,10 @@ Cloud services (for large-scale data processing or collaboration).
 This research enhances 3D model fidelity from 2D images, offering practical applications in various fields and paving the way for future advancements in depth estimation and point cloud generation.
 
 ## Articles published / References
+J. Wang and B. Li, “Analysis of aero-engine blade surface laser point cloud 3D reconstruction error,” Acta Photonica Sinica, vol. 47, no. 05, pp. 187–195, 2018.
+P. Yang, X. Gao, S. Lin, B. Ma, and C. Pan, “3D reconstruction of laser scanning at weld surface defects,” Transactions of the China Welding Institute, vol. 41, no. 3, pp. 59–63, 2020.
+
+
 
 
 
